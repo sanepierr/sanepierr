@@ -1,8 +1,17 @@
 ## About Me:
-I'm a dedicated software developer with a passion for crafting innovative solutions and a love for continuous learning. Whether I’m diving deep into code or collaborating on open source projects, I strive to blend creativity with technical excellence in every project I undertake.<br>
+I'm a dedicated software developer driven by curiosity and creativity. My passion for technology was ignited by my early love for video games, inspiring me to create and innovate beyond the screen.I've embraced every opportunity to learn, grow, and refine my skills in both front-end and back-end development.
+
+Today, I blend technical excellence with innovative problem-solving to craft solutions that truly make an impact. Whether it's diving deep into code, exploring cloud-native technologies, or collaborating with like-minded peers, I continuously push boundaries to achieve excellence. I thrive in environments that challenge me and inspire me to learn new skills—from efficient algorithms and scalable architectures to designing intuitive, user-friendly interfaces.
+
+At the heart of my journey is a commitment to community and collaboration. I believe that sharing knowledge and experiences fuels both personal and professional growth.
+
+I am excited to continue evolving as a developer, taking on new challenges and turning ideas into reality—one line of code at a time..<br>
 ## My Journey & Expertise
-My interest in software development started with my strong love for video games that got me interested in making my own. 
-I thrive on solving challenging problems with clean, efficient code. My background spans both front-end and back-end development, allowing me to build end-to-end solutions that are both robust and scalable.<br>From brainstorming ideas to executing them, I always aim to push the boundaries of what’s possible. I keep up with the latest technologies and best practices, ensuring that my work is as forward-thinking as it is reliable.<br>I believe that collaboration is key to progress. I actively engage with the developer community—sharing insights, contributing to open source projects, and learning from fellow innovators.<br><br>Currently, I’m exploring projects that bridge the gap between innovative technology and real-world applications. Whether it’s refining complex algorithms or designing user-friendly interfaces, I’m always on the lookout for new challenges that allow me to grow and make an impact.
+I’m a passionate and resilient software developer with a deep curiosity for how things work and an even greater drive to build things that matter. My journey into tech was sparked by a love for video games, which gradually evolved into a fascination with software engineering, problem-solving, and that's what got me exploring technologies and since then I knew I wanted to be a computer scientist and as time goes on I feel like I'm tilting towards data science.
+
+Since 2023, I’ve committed myself to learning and building with purpose completing Harvard’s CS50x and CS50p, earning certifications in web design, and diving deep into the world of Python, Flask, and React. I’ve also explored cloud computing, Linux, and containerization as I work toward becoming a full-stack developer with cloud-native competencies.
+
+My skills span both front-end and back-end development. I enjoy designing intuitive user interfaces with HTML, CSS, JavaScript, and React, while also building robust, scalable backends using Python and Flask.
 
 
 ## Socials:
