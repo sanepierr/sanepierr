@@ -5,7 +5,7 @@ Today, I blend technical excellence with innovative problem-solving to craft sol
 
 At the heart of my journey is a commitment to community and collaboration. I believe that sharing knowledge and experiences fuels both personal and professional growth.
 
-I am excited to continue evolving as a developer, taking on new challenges and turning ideas into reality—one line of code at a time..<br>
+I am excited to continue evolving as a developer, taking on new challenges and turning ideas into reality, one line of code at a time..<br>
 ## My Journey & Expertise
 I’m a passionate and resilient software developer with a deep curiosity for how things work and an even greater drive to build things that matter. My journey into tech was sparked by a love for video games, which gradually evolved into a fascination with software engineering, problem-solving, and that's what got me exploring technologies and since then I knew I wanted to be a computer scientist and as time goes on I feel like I'm tilting towards data science.
 
