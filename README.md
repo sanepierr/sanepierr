@@ -1,5 +1,5 @@
 ## About Me:
-I'm a dedicated software developer driven by curiosity and creativity. My passion for technology was ignited by my early love for video games, inspiring me to create and innovate beyond the screen.I've embraced every opportunity to learn, grow, and refine my skills in both front-end and back-end development.
+I'm a dedicated software engineer driven by curiosity and creativity. My passion for technology was ignited by my early love for video games, inspiring me to create and innovate beyond the screen.I've embraced every opportunity to learn, grow, and refine my skills in both front-end and back-end development.
 
 Today, I blend technical excellence with innovative problem-solving to craft solutions that truly make an impact. Whether it's diving deep into code, exploring cloud-native technologies, or collaborating with like-minded peers, I continuously push boundaries to achieve excellence. I thrive in environments that challenge me and inspire me to learn new skills—from efficient algorithms and scalable architectures to designing intuitive, user-friendly interfaces.
 
