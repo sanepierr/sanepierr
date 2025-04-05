@@ -9,7 +9,7 @@ I am excited to continue evolving as a developer, taking on new challenges and t
 ## My Journey & Expertise
 I’m a passionate and resilient software developer with a deep curiosity for how things work and an even greater drive to build things that matter. My journey into tech was sparked by a love for video games, which gradually evolved into a fascination with software engineering, problem-solving, and that's what got me exploring technologies and since then I knew I wanted to be a computer scientist and as time goes on I feel like I'm tilting towards data science.
 
-Since 2023, I’ve committed myself to learning and building with purpose completing Harvard’s CS50x and CS50p, earning certifications in web design, and diving deep into the world of Python, Flask, and React. I’ve also explored cloud computing, Linux, and containerization as I work toward becoming a full-stack developer with cloud-native competencies.
+Since 2023, I’ve committed myself to learning and building with purpose completing Harvard’s CS50x and CS50p, earning certifications in web design, and diving deep into the world of Python, Flask, and React. I'm looking forward to exploring cloud computing, Linux, and containerization as I work toward becoming a full-stack developer with cloud-native competencies.
 
 My skills span both front-end and back-end development. I enjoy designing intuitive user interfaces with HTML, CSS, JavaScript, and React, while also building robust, scalable backends using Python and Flask.
 
